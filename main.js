@@ -28,11 +28,11 @@ function generator1(){
         },
         {
           label: "Week7",
-          url: "https://github.com/abrasil321/WWD330"
+          url: "https://github.com/abrasil321/WWD330/tree/master/js/week7"
         },
         {
           label: "Week8",
-          url: "https://github.com/abrasil321/WWD330"
+          url: "https://github.com/abrasil321/WWD330/tree/master/js/week8"
         }
       ];
     let display = "";
