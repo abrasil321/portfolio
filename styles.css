@@ -8,11 +8,12 @@ footer{
     font-family: cursive;
     font-size: larger;
 }
-ol{
+ul{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    list-style-type: none;
 }
 li{
     padding: 2%;
