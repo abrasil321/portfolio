@@ -24,7 +24,7 @@ function generator1(){
         },
         {
           label: "Week6",
-          url: "https://github.com/abrasil321/WWD330/tree/main/js/week6"
+          url: "https://github.com/abrasil321/WWD330/tree/master/js/ToDo%20app"
         },
         {
           label: "Week7",
