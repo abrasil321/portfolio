@@ -23,7 +23,7 @@ function generator1(){
         url: "https://github.com/abrasil321/WWD330/tree/main/js/week5"
       },
       {
-        label: "Week6",
+        label: "Todo Challenge",
         url: "https://github.com/abrasil321/WWD330/tree/master/js/ToDo%20app"
       },
       {
@@ -37,7 +37,20 @@ function generator1(){
       {
         label: "Week9",
         url: "https://github.com/abrasil321/WWD330/tree/master/js/week9"
+      },
+      {
+        label: "Week10",
+        url: "https://github.com/abrasil321/WWD330/tree/master/js/week9"
+      },
+      {
+        label: "Week11",
+        url: "https://github.com/abrasil321/WWD330/tree/master/js/week9"
+      },
+      {
+        label: "Second Block Challenge",
+        url: "https://github.com/abrasil321/WWD330/tree/master/js/week9"
       }
+        
     ];
     let display = "";
     for(let i = 0; i < links.length; i++){
