@@ -40,15 +40,15 @@ function generator1(){
       },
       {
         label: "Week10",
-        url: "https://github.com/abrasil321/WWD330/tree/master/js/week9"
+        url: "https://github.com/abrasil321/WWD330/tree/master/js/week10"
       },
       {
         label: "Week11",
-        url: "https://github.com/abrasil321/WWD330/tree/master/js/week9"
+        url: "https://github.com/abrasil321/WWD330/tree/master/js/week11"
       },
       {
         label: "Second Block Challenge",
-        url: "https://github.com/abrasil321/WWD330/tree/master/js/week9"
+        url: "https://github.com/abrasil321/WWD330/tree/master/js/Second%20Block%20Challenge"
       }
         
     ];
